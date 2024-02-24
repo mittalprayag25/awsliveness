@@ -1,4 +1,4 @@
-package com.raq.motori.android.customerapp.utility.permission
+package com.example.amplify.utility
 
 /**
  * Created by Manoj Sain on 15/02/24.
